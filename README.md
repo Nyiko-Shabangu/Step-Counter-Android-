@@ -3,6 +3,9 @@
 ## Overview
 The Step Counter app is a fitness tracking application that monitors and records a user's step count using the device's built-in step counter sensor. The app provides real-time step count updates, local storage for tracking progress, and synchronization with Firebase and a custom API for data backup and analysis.
 
+![Uploading Screenshot_20250330_045450_step count.jpg…]()
+
+
 ## Features
 - **Real-time Step Tracking**: Utilizes the device's step counter sensor to accurately track steps
 - **Persistent Storage**: Saves step count data in a local database for offline access
